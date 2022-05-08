@@ -7,7 +7,7 @@ vector<long long> solution(int x, int n) {
     
     vector<long long> answer;
     
-    int result = x;
+	int result = x;
     
     for (int i = 0; i < n; i++) {
         
