@@ -8,7 +8,7 @@ vector<string> split(string input, char delimiter);
 
 vector<int> solution(vector<string> id_list, vector<string> report, int k) {
     
-    vector<int> answer;
+	vector<int> answer;
     
     // answer 초기화
     for (int i = 0; i < id_list.size(); i++) {
