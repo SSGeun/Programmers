@@ -5,7 +5,7 @@ using namespace std;
 
 bool solution(int x) {
     
-    bool answer = true;
+	bool answer = true;
     
     int sum = 0;
     int temp = x;
