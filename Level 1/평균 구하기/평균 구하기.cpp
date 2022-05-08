@@ -5,7 +5,7 @@ using namespace std;
 
 double solution(vector<int> arr) {
     
-    double answer = 0;
+	double answer = 0;
     
     double sum = 0;
     
