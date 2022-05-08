@@ -5,7 +5,7 @@ using namespace std;
 
 int solution(int num) {
     
-    int answer = 0;
+	int answer = 0;
     
     while (num != 1) {
         
